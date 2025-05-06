@@ -1,0 +1,2126 @@
+[
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcu8ty6z00003b5yzfaezbs5.jpg",
+        "image": "ckcu8ty6z00003b5yzfaezbs5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you specify the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<435><224><644><562>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<403><403><532><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcu99qx200043b5yd2c5g84t.jpg",
+        "image": "ckcu99qx200043b5yd2c5g84t",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease specify the coordinates of instrument."
+            },
+            {
+                "from": "gpt",
+                "value": "{<448><437><607><556>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<447><438><600><556>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcu9j9vo00073b5y3m92mu6n.jpg",
+        "image": "ckcu9j9vo00073b5y3m92mu6n",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you specify the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<449><394><591><556>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<403><394><564><563>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcu9jucf00083b5ytpqoue72.jpg",
+        "image": "ckcu9jucf00083b5ytpqoue72",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you give the position of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<449><420><597><555>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<403><403><532><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcu9ksoq00093b5ylw5wwfr2.jpg",
+        "image": "ckcu9ksoq00093b5ylw5wwfr2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<0><571><380><950>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<449><349><640><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcuae2qy000z3b5y13dxwjxh.jpg",
+        "image": "ckcuae2qy000z3b5y13dxwjxh",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease specify the coordinates of instrument."
+            },
+            {
+                "from": "gpt",
+                "value": "{<380><323><636><562>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<403><403><532><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcuazqgy00073b5y8kg82iqm.jpg",
+        "image": "ckcuazqgy00073b5y8kg82iqm",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<368><355><541><532>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<403><403><532><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcua4c08000v3b5ycdxfez4q.jpg",
+        "image": "ckcua4c08000v3b5ycdxfez4q",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<129><48><267><199>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><492><564>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcui0yhw00033b5yqa3jsh9t.jpg",
+        "image": "ckcui0yhw00033b5yqa3jsh9t",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you specify the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<384><352><636><561>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<403><403><532><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcvwgbob00113b5y32x9uoc2.jpg",
+        "image": "ckcvwgbob00113b5y32x9uoc2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<485><367><631><562>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<403><403><532><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcudgovj000s3b5yl9kkw9fk.jpg",
+        "image": "ckcudgovj000s3b5yl9kkw9fk",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you give the position of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<381><335><554><562>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<403><403><532><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcudjprd000u3b5y0inb980n.jpg",
+        "image": "ckcudjprd000u3b5y0inb980n",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<0><0><622><529>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<411><394><592><556>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcudk9a3000v3b5y8hbqo29u.jpg",
+        "image": "ckcudk9a3000v3b5y8hbqo29u",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<411><359><590><556>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<403><403><532><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcuhathy000y3b5yztf7bt9k.jpg",
+        "image": "ckcuhathy000y3b5yztf7bt9k",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you give the position of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<385><370><562><530>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<403><403><532><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcuhctfp00103b5y6aejnbtr.jpg",
+        "image": "ckcuhctfp00103b5y6aejnbtr",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is instrument located?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<430><202><647><563>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<403><403><532><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcuhes8u00123b5yj26937h5.jpg",
+        "image": "ckcuhes8u00123b5yj26937h5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you give the position of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<456><402><620><556>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<403><403><532><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcuhglhf00153b5y5lw6rfdz.jpg",
+        "image": "ckcuhglhf00153b5y5lw6rfdz",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you give the position of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<398><369><596><557>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<403><394><532><563>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcuhif1400173b5ylnnefyv2.jpg",
+        "image": "ckcuhif1400173b5ylnnefyv2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is instrument located?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<432><398><595><556>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<447><410><597><556>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcuhj2ca00183b5yl6mfas9g.jpg",
+        "image": "ckcuhj2ca00183b5yl6mfas9g",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is instrument located?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<398><379><592><556>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<403><403><532><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcuhk435001a3b5yslgvx1xk.jpg",
+        "image": "ckcuhk435001a3b5yslgvx1xk",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you specify the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<398><352><661><562>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<447><394><592><562>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcuhm7bf001e3b5yr3e70ksc.jpg",
+        "image": "ckcuhm7bf001e3b5yr3e70ksc",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you give the position of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<432><363><636><562>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<403><394><592><562>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcuhteiu001q3b5y3fxbbwot.jpg",
+        "image": "ckcuhteiu001q3b5y3fxbbwot",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<301><367><478><564>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<403><403><532><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcuhy87m00003b5y4kgnajgp.jpg",
+        "image": "ckcuhy87m00003b5y4kgnajgp",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is instrument located?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<417><385><620><563>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<403><403><532><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcui3f5s00073b5yhoy4j2fl.jpg",
+        "image": "ckcui3f5s00073b5yhoy4j2fl",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you specify the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<370><358><578><565>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<403><394><532><563>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcvuoode00003b5yodnueymo.jpg",
+        "image": "ckcvuoode00003b5yodnueymo",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you specify the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<336><12><489><215>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><398><384>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcvutszb00083b5yrabpseel.jpg",
+        "image": "ckcvutszb00083b5yrabpseel",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you specify the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<404><352><599><557>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<447><410><600><557>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcvwadu4000t3b5yu1akeedi.jpg",
+        "image": "ckcvwadu4000t3b5yu1akeedi",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<575><0><832><393>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<387><0><719><564>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcvwcfvz000w3b5y6kp4wnjg.jpg",
+        "image": "ckcvwcfvz000w3b5y6kp4wnjg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease specify the coordinates of instrument."
+            },
+            {
+                "from": "gpt",
+                "value": "{<560><0><847><596>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<0><0><0><0>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcvwgykr00123b5ynu32bppx.jpg",
+        "image": "ckcvwgykr00123b5ynu32bppx",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you specify the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<447><21><658><258>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><492><389>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcvwjbg000153b5yyytwfzt7.jpg",
+        "image": "ckcvwjbg000153b5yyytwfzt7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<648><0><973><560>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><0><719><564>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcvwqk1z001d3b5y3q8bouy2.jpg",
+        "image": "ckcvwqk1z001d3b5y3q8bouy2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease specify the coordinates of instrument."
+            },
+            {
+                "from": "gpt",
+                "value": "{<415><21><673><389>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<42><12><268><429>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcx3nx8x00043b5yfnem8b5z.jpg",
+        "image": "ckcx3nx8x00043b5yfnem8b5z",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease specify the coordinates of instrument."
+            },
+            {
+                "from": "gpt",
+                "value": "{<211><328><433><563>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<403><403><532><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcx3sg4j000a3b5yvdbnqhjf.jpg",
+        "image": "ckcx3sg4j000a3b5yvdbnqhjf",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you specify the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<737><0><1112><706>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<86><0><854><988>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcx3u6iz000c3b5y6rma8psc.jpg",
+        "image": "ckcx3u6iz000c3b5y6rma8psc",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<801><0><1175><487>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<863><0><1256><564>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcx3x9oa000f3b5y4kldsy6o.jpg",
+        "image": "ckcx3x9oa000f3b5y4kldsy6o",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you specify the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<403><341><623><556>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<447><394><592><562>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcx90qde000r3b5yzdhdwptf.jpg",
+        "image": "ckcx90qde000r3b5yzdhdwptf",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is instrument located?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<403><304><626><558>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<449><394><592><556>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcx920dy000s3b5yezze7cet.jpg",
+        "image": "ckcx920dy000s3b5yezze7cet",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease specify the coordinates of instrument."
+            },
+            {
+                "from": "gpt",
+                "value": "{<18><0><987><734>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<721><0><1256><821>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcx94vms000w3b5y3eoh454p.jpg",
+        "image": "ckcx94vms000w3b5y3eoh454p",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you specify the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<309><413><422><475>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><492><564>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcx956ii000x3b5y7npul5kn.jpg",
+        "image": "ckcx956ii000x3b5y7npul5kn",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is instrument located?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<394><415><519><564>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<403><403><532><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcx9gwut001h3b5ycm8ozbl8.jpg",
+        "image": "ckcx9gwut001h3b5ycm8ozbl8",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you specify the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<362><341><560><565>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<403><403><532><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcx9ihjg001m3b5yppfbinlq.jpg",
+        "image": "ckcx9ihjg001m3b5yppfbinlq",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you specify the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<20><201><471><1020>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><0><854><564>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcx9lmx6001r3b5ys0q4d9ii.jpg",
+        "image": "ckcx9lmx6001r3b5ys0q4d9ii",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you specify the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<346><325><567><558>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<447><410><600><557>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcx9m2ft001s3b5yzfagu4rv.jpg",
+        "image": "ckcx9m2ft001s3b5yzfagu4rv",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you specify the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<729><2><1139><594>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<717><0><1250><821>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcx9ogfz001v3b5yrrw3tifa.jpg",
+        "image": "ckcx9ogfz001v3b5yrrw3tifa",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is instrument located?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<82><112><1251><399>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<721><0><1256><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcx9selb00233b5ya9d409ni.jpg",
+        "image": "ckcx9selb00233b5ya9d409ni",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<622><535><1019><1020>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<449><349><640><562>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcx9yeso002f3b5ynri5ncck.jpg",
+        "image": "ckcx9yeso002f3b5ynri5ncck",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease specify the coordinates of instrument."
+            },
+            {
+                "from": "gpt",
+                "value": "{<917><0><1634><606>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<403><22><619><351>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcxanyi700013b5y323mmo2t.jpg",
+        "image": "ckcxanyi700013b5y323mmo2t",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease specify the coordinates of instrument."
+            },
+            {
+                "from": "gpt",
+                "value": "{<1003><0><1243><363>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><398><429>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcxapc9i00043b5yvtmxcf2h.jpg",
+        "image": "ckcxapc9i00043b5yvtmxcf2h",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you specify the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<172><0><582><382>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<542><0><890><564>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcxaqyt900073b5yomyxi3bf.jpg",
+        "image": "ckcxaqyt900073b5yomyxi3bf",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease specify the coordinates of instrument."
+            },
+            {
+                "from": "gpt",
+                "value": "{<816><304><1141><1018>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<521><0><959><557>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcxb1sp9000o3b5ygty1w643.jpg",
+        "image": "ckcxb1sp9000o3b5ygty1w643",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you give the position of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<416><428><576><556>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<403><403><532><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcxb2yoq000q3b5yq8yxt4lu.jpg",
+        "image": "ckcxb2yoq000q3b5yq8yxt4lu",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you give the position of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<645><618><1003><1015>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<821><821><1017><1017>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcxb3gj1000r3b5y1fg7oo68.jpg",
+        "image": "ckcxb3gj1000r3b5y1fg7oo68",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is instrument located?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<644><498><1039><1016>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<731><732><1062><1063>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcxb8tde00133b5y3rtyam5m.jpg",
+        "image": "ckcxb8tde00133b5y3rtyam5m",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is instrument located?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<465><0><721><466>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><0><719><564>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcxcm3p800083b5yio6him4i.jpg",
+        "image": "ckcxcm3p800083b5yio6him4i",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<588><613><941><1015>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<449><390><640><556>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcxcnorr000a3b5yt67i44tv.jpg",
+        "image": "ckcxcnorr000a3b5yt67i44tv",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<442><336><639><560>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<403><403><592><562>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcxcpqwo000c3b5y9wpbguzz.jpg",
+        "image": "ckcxcpqwo000c3b5y9wpbguzz",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease specify the coordinates of instrument."
+            },
+            {
+                "from": "gpt",
+                "value": "{<449><0><779><572>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<542><0><890><484>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcxcriw1000g3b5ydfvxeenb.jpg",
+        "image": "ckcxcriw1000g3b5ydfvxeenb",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is instrument located?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<402><0><720><532>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><717><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcxcrvvk000h3b5ybsrrwfqn.jpg",
+        "image": "ckcxcrvvk000h3b5ybsrrwfqn",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you give the position of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<323><408><548><557>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<447><410><600><556>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcxct8oj000k3b5y9iwia72h.jpg",
+        "image": "ckcxct8oj000k3b5y9iwia72h",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you give the position of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<387><376><613><555>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<403><394><532><561>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcxcv2jx000m3b5ysjm9saof.jpg",
+        "image": "ckcxcv2jx000m3b5ysjm9saof",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is instrument located?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<242><313><1108><1014>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<449><372><719><988>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckczzbpgw00003b5y3upxkjrt.jpg",
+        "image": "ckczzbpgw00003b5y3upxkjrt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you give the position of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<77><22><445><345>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><398><351>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckczzk62a000a3b5yk46dw2od.jpg",
+        "image": "ckczzk62a000a3b5yk46dw2od",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you specify the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<235><25><401><253>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><398><351>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd01fde6000u3b5yqdjv7psy.jpg",
+        "image": "ckd01fde6000u3b5yqdjv7psy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is instrument located?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<300><25><557><356>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><26><719><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd036ks7000y3b5ycugx52w2.jpg",
+        "image": "ckd036ks7000y3b5ycugx52w2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you give the position of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<86><27><354><292>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<84><25><398><351>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd03in4g001d3b5yngyc734r.jpg",
+        "image": "ckd03in4g001d3b5yngyc734r",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you specify the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<396><26><524><318>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><398><351>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd03jqwm001f3b5yu7gv9dd4.jpg",
+        "image": "ckd03jqwm001f3b5yu7gv9dd4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease specify the coordinates of instrument."
+            },
+            {
+                "from": "gpt",
+                "value": "{<238><26><472><226>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><367><351>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd03pyh7001n3b5y93mingxo.jpg",
+        "image": "ckd03pyh7001n3b5y93mingxo",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you give the position of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<280><21><665><333>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><489><351>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd03qgza001o3b5y1o9a3th9.jpg",
+        "image": "ckd03qgza001o3b5y1o9a3th9",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you give the position of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<85><25><333><372>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<84><22><398><354>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd04jg0w00043b5y4inwt2r0.jpg",
+        "image": "ckd04jg0w00043b5y4inwt2r0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you give the position of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<129><22><431><396>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><398><351>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd04mhfk00093b5y95795eqc.jpg",
+        "image": "ckd04mhfk00093b5y95795eqc",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<41><23><403><394>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><26><719><454>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd04o1wm000c3b5yp9jpxdu0.jpg",
+        "image": "ckd04o1wm000c3b5yp9jpxdu0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease specify the coordinates of instrument."
+            },
+            {
+                "from": "gpt",
+                "value": "{<45><25><348><467>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<84><25><398><351>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd04q717000f3b5youb9mni6.jpg",
+        "image": "ckd04q717000f3b5youb9mni6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<468><24><718><290>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><26><719><351>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd04qqs4000g3b5yq50lifx4.jpg",
+        "image": "ckd04qqs4000g3b5yq50lifx4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is instrument located?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<81><77><365><398>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><26><719><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd04ree9000h3b5ylnn0e5vi.jpg",
+        "image": "ckd04ree9000h3b5ylnn0e5vi",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you give the position of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<498><27><718><344>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><398><351>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd05478i000v3b5y35anect7.jpg",
+        "image": "ckd05478i000v3b5y35anect7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease specify the coordinates of instrument."
+            },
+            {
+                "from": "gpt",
+                "value": "{<43><20><470><394>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<84><25><398><351>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcxaupct00093b5yjtfd05px.jpg",
+        "image": "ckcxaupct00093b5yjtfd05px",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<508><0><745><419>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<711><0><1256><564>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd07z9a300073b5yysdypr0o.jpg",
+        "image": "ckd07z9a300073b5yysdypr0o",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you specify the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<86><24><462><346>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><398><351>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd07zwfc00083b5yxfm3e56g.jpg",
+        "image": "ckd07zwfc00083b5yxfm3e56g",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<41><23><379><385>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><564><564>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd084qah000f3b5yt534e31i.jpg",
+        "image": "ckd084qah000f3b5yt534e31i",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is instrument located?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<221><13><360><410>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><564><389>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd08affa000o3b5y8jh8zjnb.jpg",
+        "image": "ckd08affa000o3b5y8jh8zjnb",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is instrument located?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<333><27><494><301>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><26><719><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd09ao52000b3b5y3mwsxvvh.jpg",
+        "image": "ckd09ao52000b3b5y3mwsxvvh",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you specify the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<357><23><694><291>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><567><563>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd09bezs000c3b5yy33w0pw6.jpg",
+        "image": "ckd09bezs000c3b5yy33w0pw6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you give the position of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<41><12><329><428>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<84><22><398><370>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd09c6ls000d3b5y9jtq8dhn.jpg",
+        "image": "ckd09c6ls000d3b5y9jtq8dhn",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you specify the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<88><12><276><319>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><398><386>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd09etyl000g3b5ykryazbpc.jpg",
+        "image": "ckd09etyl000g3b5ykryazbpc",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<287><25><430><270>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<403><403><592><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd0agdp7000b3b5yml5zuxep.jpg",
+        "image": "ckd0agdp7000b3b5yml5zuxep",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<123><27><372><186>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><26><719><351>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd48fajc00053b5y7tvo2wk4.jpg",
+        "image": "ckd48fajc00053b5y7tvo2wk4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is instrument located?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<42><12><383><242>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><492><389>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd494lhg00093b5yklciypt8.jpg",
+        "image": "ckd494lhg00093b5yklciypt8",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you specify the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<129><25><424><366>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><398><351>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd4996hu000d3b5yksmjw2ux.jpg",
+        "image": "ckd4996hu000d3b5yksmjw2ux",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease specify the coordinates of instrument."
+            },
+            {
+                "from": "gpt",
+                "value": "{<91><25><478><376>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<84><25><398><352>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd4h4ma100113b5ykgw41898.jpg",
+        "image": "ckd4h4ma100113b5ykgw41898",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<363><43><717><418>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><717><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd4h6zt900143b5yc6gzzesd.jpg",
+        "image": "ckd4h6zt900143b5yc6gzzesd",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<338><25><500><423>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><717><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd4h7fq300153b5yhdzs5yar.jpg",
+        "image": "ckd4h7fq300153b5yhdzs5yar",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is instrument located?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<265><28><436><353>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><717><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd4ig3d700043b5y0p70afjj.jpg",
+        "image": "ckd4ig3d700043b5y0p70afjj",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<238><11><427><462>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><564><564>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd4il4jl00093b5y9rlfydho.jpg",
+        "image": "ckd4il4jl00093b5y9rlfydho",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<356><22><705><282>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><717><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd4ipizn000d3b5yk2vrbyyz.jpg",
+        "image": "ckd4ipizn000d3b5yk2vrbyyz",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<435><25><717><410>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><717><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd4irg3i000g3b5yb60bf267.jpg",
+        "image": "ckd4irg3i000g3b5yb60bf267",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<414><21><522><380>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><717><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd4it6dm000h3b5yo5kjps9m.jpg",
+        "image": "ckd4it6dm000h3b5yo5kjps9m",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you specify the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<45><21><314><400>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><398><351>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd4ixg96000k3b5y9mho0hb6.jpg",
+        "image": "ckd4ixg96000k3b5y9mho0hb6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you give the position of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<85><44><390><413>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><398><351>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd4j7qvm000w3b5yhroeer7d.jpg",
+        "image": "ckd4j7qvm000w3b5yhroeer7d",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you specify the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<57><13><260><425>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<42><12><274><336>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd4jepc400153b5yhiam06ww.jpg",
+        "image": "ckd4jepc400153b5yhiam06ww",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<85><30><416><453>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><717><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd4jh72i00173b5ysqfcv9s7.jpg",
+        "image": "ckd4jh72i00173b5ysqfcv9s7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<456><26><719><370>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><717><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd4jl4mp001c3b5yujvme2g8.jpg",
+        "image": "ckd4jl4mp001c3b5yujvme2g8",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease specify the coordinates of instrument."
+            },
+            {
+                "from": "gpt",
+                "value": "{<177><25><508><324>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><398><351>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd4jlomu001d3b5yn3q8wnf8.jpg",
+        "image": "ckd4jlomu001d3b5yn3q8wnf8",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<85><26><409><397>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><26><719><351>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd4jmdk7001e3b5yj8s1c8nb.jpg",
+        "image": "ckd4jmdk7001e3b5yj8s1c8nb",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you give the position of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<168><21><316><435>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><398><351>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd4jpw6a001i3b5ydut2dd0y.jpg",
+        "image": "ckd4jpw6a001i3b5ydut2dd0y",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you specify the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<58><22><320><360>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><398><351>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd4jrgi8001k3b5yzjzb18cc.jpg",
+        "image": "ckd4jrgi8001k3b5yzjzb18cc",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is instrument located?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<85><25><481><463>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><717><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd4k4js100033b5ydcmw6rjo.jpg",
+        "image": "ckd4k4js100033b5ydcmw6rjo",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease specify the coordinates of instrument."
+            },
+            {
+                "from": "gpt",
+                "value": "{<85><28><371><438>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<84><25><398><351>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd4kdok6000f3b5ydais95lp.jpg",
+        "image": "ckd4kdok6000f3b5ydais95lp",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease specify the coordinates of instrument."
+            },
+            {
+                "from": "gpt",
+                "value": "{<84><26><309><396>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<84><25><398><351>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd4kgex0000h3b5yhpwjd11l.jpg",
+        "image": "ckd4kgex0000h3b5yhpwjd11l",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you give the position of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<85><26><546><412>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><398><429>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd0871up000i3b5y90ce4n22.jpg",
+        "image": "ckd0871up000i3b5y90ce4n22",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is instrument located?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<305><22><674><219>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><26><719><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd0950iy00043b5yefukpb9q.jpg",
+        "image": "ckd0950iy00043b5yefukpb9q",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you specify the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<308><22><440><282>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><567><563>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd4h96i900183b5yvumsc195.jpg",
+        "image": "ckd4h96i900183b5yvumsc195",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is instrument located?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<396><11><675><414>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><492><564>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd4ins64000c3b5yqn6clymn.jpg",
+        "image": "ckd4ins64000c3b5yqn6clymn",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease specify the coordinates of instrument."
+            },
+            {
+                "from": "gpt",
+                "value": "{<415><394><588><557>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<403><403><532><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd4jj2y400193b5ye5y7pxsk.jpg",
+        "image": "ckd4jj2y400193b5ye5y7pxsk",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you specify the location of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<247><27><459><260>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><398><351>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcua5ymi000x3b5ynlsqwhhs.jpg",
+        "image": "ckcua5ymi000x3b5ynlsqwhhs",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease specify the coordinates of instrument."
+            },
+            {
+                "from": "gpt",
+                "value": "{<18><0><483><523>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<403><403><609><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcuhhwdt00163b5yecay6tk1.jpg",
+        "image": "ckcuhhwdt00163b5yecay6tk1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you give the position of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<99><63><467><548>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<403><403><532><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcx9nmko001u3b5yopeccdvo.jpg",
+        "image": "ckcx9nmko001u3b5yopeccdvo",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you give the position of instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<90><17><612><555>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<403><403><532><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckcxbba1g00173b5y4k68a2y9.jpg",
+        "image": "ckcxbba1g00173b5y4k68a2y9",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is instrument located?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<420><142><626><556>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<403><403><532><532>}"
+            }
+        ]
+    },
+    {
+        "id": "Kvasir-Instrument/Test/accessory_tool/ckd0995fe00093b5yzebk675a.jpg",
+        "image": "ckd0995fe00093b5yzebk675a",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is instrument located?"
+            },
+            {
+                "from": "gpt",
+                "value": "{<191><11><374><454>}"
+            },
+            {
+                "from": "prediction",
+                "value": "{<85><25><564><564>}"
+            }
+        ]
+    }
+]
